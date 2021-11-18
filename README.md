@@ -3,13 +3,13 @@ Addon for importing 3D models from https://www.models-resource.com/ in Blender U
 
 ### Requiurements
 
-Since Blender uses his own custom python release, requires packages must be installed using `InstallModelResource.blend` and uninstalled with `UninstallModelResource.blend` (check How to install section)
-
 - BeautifulSoup (bs4)
 - requests
 - urllib3
 
 ### How to install
+
+Since Blender uses his own custom python release, requires packages must be installed using `InstallModelResource.blend` and uninstalled with `UninstallModelResource.blend` 
 
 1. Download `InstallModelResource.blend` from latest release
 
