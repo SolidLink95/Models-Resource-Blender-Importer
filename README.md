@@ -69,5 +69,5 @@ Addon uses multithreading, so Blender does not freeze during downloading assets 
 
 ### Credits 
 
-All credits go to the respective developers studios. No 3D model is included with addon. All credits for exporting the models go to the respective users of `models-resource`
+All credits go to the respective developers studios. No 3D model is included with addon. All credits for exporting and uploading the models go to the respective users of `models-resource`
 
