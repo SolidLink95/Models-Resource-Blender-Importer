@@ -1,5 +1,5 @@
 # Models-Resource-Blender-Importer
-Addon for importing 3D models from https://www.models-resource.com/ in Blender UI
+Addon for importing 3D models from https://www.models-resource.com/ in Blender UI. Tested on versions 2.82 and 2.93
 
 ### Requiurements
 
