@@ -6,7 +6,7 @@ import pathlib
 import requests
 import sys
 import zipfile
-from bs4 import BeautifulSoup as BS
+from Models_Resource_Importer.bs4 import BeautifulSoup as BS
 
 
 def update_progress(job_title, progress):

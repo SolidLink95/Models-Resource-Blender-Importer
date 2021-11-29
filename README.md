@@ -3,25 +3,11 @@ Addon for importing 3D models from https://www.models-resource.com/ in Blender U
 
 ### Requiurements
 
-- BeautifulSoup (bs4)
-- requests
-- urllib3
+- BeautifulSoup (bs4) - shipped with latest release (v. 4.9.3)
 
 ### How to install
 
 Since Blender uses his own custom python release, requires packages must be installed using `InstallModelResource.blend` and uninstalled with `UninstallModelResource.blend` 
-
-1. Download `InstallModelResource.blend` from latest release
-
-2. Open Blender as an administrator 
-
-   ![alt text](https://github.com/banan039pl/Models-Resource-Blender-Importer/blob/main/images/1.png)
-
-3. Go to `Scripting` tab and run the code (`Alt+P`) 
-
-   ![alt text](https://github.com/banan039pl/Models-Resource-Blender-Importer/blob/main/images/2.png)
-
-4. Close window
 
 5. Download zip file from the latest release (don't unzip!)
 
@@ -31,7 +17,7 @@ Since Blender uses his own custom python release, requires packages must be inst
 
 7. Go to `Addons` tab and click install
 
-8. Select zip file downloaded in step 5.
+8. Select zip file downloaded in step 1.
 
 9. Done, the addon is accessible here:  
 
@@ -63,8 +49,6 @@ Addon uses multithreading, so Blender does not freeze during downloading assets 
 1. Open Blender, go to `Edit -> Preferences`
 2. Go to `Addons` tab
 3. Untick the box near `Models Resource Importer` and close Blender
-4. Open Blender as an administrator
-5. Open `UninstallModelResource.blend` and run code (`Alt+P`)
 6. Close Blender
 
 ### Credits 

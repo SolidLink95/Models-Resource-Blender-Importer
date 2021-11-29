@@ -14,7 +14,7 @@ from Models_Resource_Importer.GUI import Models_Resource_Operators_OT_List, Main
 bl_info = {
 	"name": "Models-Resource Importer",
 	"author": "banan039",
-	"version": (0, 0, 1),
+	"version": (0, 0, 2),
 	"blender": (2, 90, 0),
 	"category": "Import",
 	"location": "View layer properties > Models-Resource",
