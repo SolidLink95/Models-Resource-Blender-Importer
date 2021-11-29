@@ -9,17 +9,17 @@ Addon for importing 3D models from https://www.models-resource.com/ in Blender U
 
 Since Blender uses his own custom python release, requires packages must be installed using `InstallModelResource.blend` and uninstalled with `UninstallModelResource.blend` 
 
-5. Download zip file from the latest release (don't unzip!)
+1. Download zip file from the latest release (don't unzip!)
 
-6. Open Blender, go to `Edit -> Preferences` 
+2. Open Blender, go to `Edit -> Preferences` 
 
    ![alt text](https://github.com/banan039pl/Models-Resource-Blender-Importer/blob/main/images/3.png)
 
-7. Go to `Addons` tab and click install
+3. Go to `Addons` tab and click install
 
-8. Select zip file downloaded in step 1.
+4. Select zip file downloaded in step 1.
 
-9. Done, the addon is accessible here:  
+5. Done, the addon is accessible here:  
 
    ![alt text](https://github.com/banan039pl/Models-Resource-Blender-Importer/blob/main/images/4.png)
 
@@ -49,7 +49,7 @@ Addon uses multithreading, so Blender does not freeze during downloading assets 
 1. Open Blender, go to `Edit -> Preferences`
 2. Go to `Addons` tab
 3. Untick the box near `Models Resource Importer` and close Blender
-6. Close Blender
+4. Close Blender
 
 ### Credits 
 
